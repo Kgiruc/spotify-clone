@@ -1,0 +1,9 @@
+@import "reset";
+@import "settings/fonts";
+@import "settings/colors";
+@import "settings/breakpoints";
+
+.app {
+    background-color: $color-blank-black;
+    font-size: $font-head1;
+}
